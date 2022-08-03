@@ -1,0 +1,21 @@
+    .wrap {
+        background-color: rgb(139, 139, 221);
+    }
+    .block {
+        width: 15em;
+        background-color: rgb(102, 231, 231);
+        left: 0px;
+        float: left;
+    }
+
+    .artickle {
+        background-color: rgb(206, 136, 159);
+        margin-bottom: .2em;
+        margin-left: 238px;
+        overflow: hidden;
+    }
+      
+    .bottom {
+        background-color: aquamarine;
+        clear: both;
+    }
